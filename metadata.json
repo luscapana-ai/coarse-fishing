@@ -1,0 +1,9 @@
+{
+  "name": "Copy of CoarseConnect",
+  "description": "The premier companion app for coarse fishing enthusiasts. Track your catches, buy and sell gear in the specialized marketplace, and get expert advice from our AI guide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
